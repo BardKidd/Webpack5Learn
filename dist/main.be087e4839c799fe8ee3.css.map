@@ -1,0 +1,1 @@
+{"version":3,"file":"main.be087e4839c799fe8ee3.css","mappings":";;;AAAA;IACI,YAAY;IACZ,aAAa;IACb,qBAAqB;AACzB,C","sources":["webpack://webpack/./src/style.css"],"sourcesContent":[".ts {\r\n    width: 300px;\r\n    height: 300px;\r\n    background-color: red;\r\n}"],"names":[],"sourceRoot":""}
